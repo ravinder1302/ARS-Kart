@@ -10,7 +10,7 @@ ARS E-commerce is a full-stack web application for buying and selling electronic
 - [Features](#features)
 - [Project Structure](#project-structure.
 - [Frontend](#frontend)
-- [Backend](#backend)
+- [Backend](#backend.
 - [Database Schema](#database-schema)
 - [Scripts](#scripts)
 - [Deployment](#deployment)
