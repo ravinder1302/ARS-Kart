@@ -1,4 +1,4 @@
-# ARS E-commerce Platform
+# ARS-Kart (E-commerce Platform)
 
 ## Overview 
 
