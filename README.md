@@ -2,7 +2,7 @@
 
 ## Overview
 
-ARS E-commerce is a full-stack web application for buying and selling electronics and accessories. It features a modern React frontend, a robust Node.js/Express backend, and a PostgreSQL (or MySQL) database. The platform supports user authentication, product browsing, cart and wishlist management, order processing, and an admin dashboard for managing products, users, orders, and categories.
+ARS E-commerce is a full-stack web application for buying and selling electronics and accessories. It features a modern React frontend, a robust Node.js/Express backend, and a MySQL database. The platform supports user authentication, product browsing, cart and wishlist management, order processing,added a voice-based product search, allowing people to search items just by speaking and an admin dashboard for managing products, users, orders, and categories.
 
 ---
 
